@@ -1,0 +1,10 @@
+{
+  "email": "teste@teste.com",
+  "produto": "TesteNovo2",
+  "upsells_comprados": [
+    2
+  ],
+  "data": "2025-08-07T11:50:40.844Z",
+  "transacao_id": "test_575252",
+  "acesso_liberado": true
+}
